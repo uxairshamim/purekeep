@@ -46,9 +46,6 @@ const themeButtonOne = {
   marginLeft: "20px"
 }
 
-
-
-  
     return(
         <Container fluid style={{width: "1338.24px"}}>
             <div style={navbarStyle}>

@@ -19,3 +19,8 @@ code {
 .navLeft a:first-child {
   padding-left: 40px !important;
 }
+
+
+.bannerMain {
+  padding-top: 200px;
+}

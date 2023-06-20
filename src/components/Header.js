@@ -1,5 +1,7 @@
 import {React} from 'react';
 import Navigation from './Navigation';
+import Banner from './Banner';
+
 
 const leftNavMenus = [
     {
@@ -73,6 +75,7 @@ const Header = () => {
     return(
         <div style={header}>
             <Navigation listMenuLeft={leftNavMenus} listMenuRight={leftNavMenusRight} />
+            <Banner />
         </div>
     )
 }
